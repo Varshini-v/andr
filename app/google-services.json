@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205267538046",
+    "firebase_url": "https://singitforme-372b0.firebaseio.com",
+    "project_id": "singitforme-372b0",
+    "storage_bucket": "singitforme-372b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205267538046:android:71364c69ac0cedc7",
+        "android_client_info": {
+          "package_name": "com.example.varsh.singitforme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205267538046-km78bhjsdp0gj9dvrrppt9tv2e5926q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varsh.singitforme",
+            "certificate_hash": "9433ee7748ed70fd8b5b5a1b1ca8f7fb5fdb92c9"
+          }
+        },
+        {
+          "client_id": "205267538046-re8d95590igrenjb6ak2ae1epnv8v184.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASJLXOpfmN-VnN_isgzb-jtFdElCqlb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205267538046-re8d95590igrenjb6ak2ae1epnv8v184.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
